@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/tailwind css-06b6d4?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952b3?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=Java&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/npm-F15833?style=for-the-badge&logo=Java&logoColor=white">
