@@ -36,9 +36,6 @@
         style="height : 200px; margin-left : 8px; margin-right : 8px;"/>
 </a>
 
-
-
-<br/>
 <br/>
 <br/>
 
